@@ -7,5 +7,5 @@ Authors -
 1. L. A. Prashanth
 2. Krishna Jagannathan
 3. Arvind S. Menon
-4. Vishwajit hegde
+4. Vishwajit Hegde
 
